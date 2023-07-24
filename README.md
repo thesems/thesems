@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thesems/thesems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Semir Ramovic
+
+Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 
 ## Repositories
 - [Advent of Code 2022 in Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
