@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # Semir Ramovic
----
 
 ## Repositories
 - [Advent of Code 2022 in Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
