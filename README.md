@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Semir Ramovic
+---
+
+## Repositories
+- [Advent of Code 2022 in Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
+- [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code.
