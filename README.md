@@ -20,4 +20,4 @@ Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 ## Repositories
 - [Advent of Code 2022 in Golang](https://github.com/thesems/advent-of-code-2022-go-lang)
 - [Blogging Website (CMS) with Golang templates](https://github.com/thesems/golang-cms)
-- [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code.
+- [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
