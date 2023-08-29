@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 
-Yu can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](https://github.com/thesems/curriculum-vitae/blob/main/main.pdf).
+You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](https://github.com/thesems/curriculum-vitae/blob/main/main.pdf).
 
 ## Repositories
 - [Advent of Code 2022 in Golang](https://github.com/thesems/advent-of-code-2022-go-lang)
