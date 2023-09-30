@@ -29,5 +29,5 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 - Go is my go-to language! 🥇
 - JavaScript for my web adventure. ✨
 - Python for some data exploration. 🔭
-- Rust is my CLI buddy 👯‍♂️
-- C/C++... we broke up 💔
+- Rust is my CLI buddy. 👯‍♂️
+- C/C++... we broke up. 💔
