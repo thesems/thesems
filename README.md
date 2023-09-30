@@ -24,3 +24,10 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 - [Micro blogger - minimalistic blogging web app built in Golang and HTMX](https://github.com/thesems/micro-blogger-golang)
 - [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
 - [Project solutions for popular course nand2tetris](https://github.com/thesems/nand2tetris): more info on [nand2tetris.org](https://www.nand2tetris.org/)
+
+## Coding lingo's I prefer
+- Go is my go-to language! 🥇
+- JavaScript for my web adventure. ✨
+- Python for some data exploration. 🔭
+- Rust is my CLI buddy 👯
+- C/C++... we broke up 💔
