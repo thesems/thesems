@@ -21,7 +21,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 
 ## Repositories
 - [Advent of Code 2022 written in Golang](https://github.com/thesems/advent-of-code-2022-go-lang)
-- [Micro blogger - minimalistic blogging web app built in Golang and HTMX](https://github.com/thesems/micro-blogger-golang)
+- [Minimalistic Blog CMS - built in Golang and HTMX](https://github.com/thesems/micro-blogger-golang)
 - [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
 - [Project solutions for popular course nand2tetris](https://github.com/thesems/nand2tetris): more info on [nand2tetris.org](https://www.nand2tetris.org/)
 
