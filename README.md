@@ -27,9 +27,15 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 
 
 ## About me
- 
+
+I'm an all-rounder software engineer and love to learn various topics ranging from web development to system programming and data science.
+
+- 🌱 I’m currently coding a compiler for a stack-based virtual machine (Jack language).
+- 🔭 I'm digging deeper into Rust.
+- 📝 Recently started writing a technical blog.
+
 ### Programming languages
-- Go for back-end development. 🥇
-- JavaScript for websites. ✨
-- Python for quick prototyping and machine learning. 🧠
-- Rust is my CLI buddy. 👯‍♂️
+- Go language for back-end development.
+- JavaScript for web applications.
+- Python for quick prototyping and machine learning.
+- Rust for CLI applications.
