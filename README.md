@@ -28,7 +28,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 
 ## About me
 
-I'm an all-rounder software engineer and love to learn various topics ranging from web development to system programming and data science.
+I'm an all-rounder software engineer and love to learn and work various topics ranging from web development to system programming and data science.
 
 - 🌱 I’m currently coding a compiler for a stack-based virtual machine (Jack language).
 - 🔭 I'm digging deeper into Rust.
