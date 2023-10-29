@@ -20,9 +20,9 @@ Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](https://github.com/thesems/curriculum-vitae/blob/main/main.pdf).
 
 ## Repositories
-- [Advent of Code 2022 written in Golang](https://github.com/thesems/advent-of-code-2022-go-lang)
-- [Minimalistic Blog CMS - built in Golang and HTMX](https://github.com/thesems/micro-blogger-golang)
-- [Linux config files](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
+- [Advent of Code 2022 - Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
+- [Minimalistic Blog CMS - Go Langauge and HTMX](https://github.com/thesems/micro-blogger-golang)
+- [dotfiles](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
 - [nand2tetris](https://github.com/thesems/nand2tetris): includes course solutions. Learn HDL, assemblers, VMs, compilers, OSs.
 
 
