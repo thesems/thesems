@@ -30,6 +30,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 
 I'm an all-rounder software engineer and love to learn and work various topics ranging from web development to system programming and data science.
 
+- 👷 Software Developer at [Easelink](https://easelink.com).
 - 🌱 I’m currently coding a compiler for a stack-based virtual machine (Jack language).
 - 🔭 I'm digging deeper into Rust.
 - 📝 Recently started writing a technical blog.
