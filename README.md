@@ -20,20 +20,23 @@ Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](https://github.com/thesems/curriculum-vitae/blob/main/main.pdf).
 
 ## Repositories
+
+### Completed
 - [Advent of Code 2022 - Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
 - [Minimalistic Blog CMS - Go Language and HTMX](https://github.com/thesems/micro-blogger-golang)
 - [nand2tetris](https://github.com/thesems/nand2tetris): includes course solutions. Learn HDL, assemblers, VMs, compilers, OSs.
 - [dotfiles](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
 
+### Active
+- [Advent of Code 2023 - Rust Language](https://github.com/thesems/advent-of-code-2023-rust)
 
 ## About me
 
 I'm an all-rounder software engineer and love to learn and work various topics ranging from web development to system programming and data science.
 
 - 👷 Software Developer at [Easelink](https://easelink.com).
-- 🌱 I’m currently coding a compiler for a stack-based virtual machine (Jack language).
 - 🔭 I'm digging deeper into Rust.
-- 📝 Recently started writing a technical blog.
+- 📝 Started writing a technical blog in late 2023.
 
 ### Programming languages
 - Go language for back-end development.
