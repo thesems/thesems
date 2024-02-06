@@ -32,7 +32,8 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 I'm an all-rounder software engineer and love to learn and work various topics ranging from web development to system programming.
 
 - 👷 Software Developer at [Easelink](https://easelink.com).
-- 🔭 I'm digging deeper into Rust and learning about Blockchains.
+- 🔭 I'm digging deeper into Rust.
+- ⚡ I'm also learning more about blockchain technology and operating systems.
 - 📝 Started writing a technical blog in late 2023.
 
 ### Programming languages
