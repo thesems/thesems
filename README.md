@@ -39,3 +39,5 @@ I'm an all-rounder software engineer and love to learn and work various topics r
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesems&theme=dark&hide=assembly,hack,scilab)](https://github.com/thesems/github-readme-stats)
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesems&show_icons=true&theme=radical) -->
