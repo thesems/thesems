@@ -36,8 +36,6 @@ I'm an all-rounder software engineer and love to learn and work various topics r
 - ⚡ I'm also learning more about blockchain technology and operating systems.
 - 📝 Started writing a technical blog in late 2023.
 
-### Programming languages
-- Go language for back-end development.
-- JavaScript for web applications.
-- Python for quick prototyping and machine learning.
-- Rust for CLI applications.
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesems&theme=dark&hide=assembly,hack,scilab)](https://github.com/thesems/github-readme-stats)
