@@ -25,6 +25,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 - [Advent of Code 2023 - Rust Language](https://github.com/thesems/advent-of-code-2023-rust)
 - [Minimalistic Blog CMS - Go Language and HTMX](https://github.com/thesems/micro-blogger-golang)
 - [nand2tetris](https://github.com/thesems/nand2tetris): includes course solutions. Learn HDL, assemblers, VMs, compilers, OSs.
+- [nimbus terminal text editor](https://github.com/thesems/nimbus-text-editor)
 - [dotfiles](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, alacritty, picom, VS Code, Neovim.
 
 ## About me
