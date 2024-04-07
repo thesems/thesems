@@ -21,7 +21,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 
 ## Repositories
 
-- [Emberchain](https://github.com/thesems/ember-chain): modular blockchain, proof-of-work, p2p, web API, rust.
+- [Emberchain](https://github.com/thesems/ember-chain): bitcoin-like blockchain, proof-of-work, utxo-based, script, web API, rust.
 - [Nimbus Text Editor](https://github.com/thesems/nimbus-text-editor): terminal-based, vim motions, syntax highlighting, search.
 - [nand2tetris](https://github.com/thesems/nand2tetris): includes course solutions. Learn HDL, assemblers, VMs, compilers, OSs.
 - [Advent of Code 2023 - Rust Language](https://github.com/thesems/advent-of-code-2023-rust)
