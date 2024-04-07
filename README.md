@@ -27,7 +27,7 @@ You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](htt
 - [Advent of Code 2023 - Rust Language](https://github.com/thesems/advent-of-code-2023-rust)
 - [Advent of Code 2022 - Go Language](https://github.com/thesems/advent-of-code-2022-go-lang)
 - [Minimal blogging CMS](https://github.com/thesems/minimal-blogging-cms): Go Language, PostgreSQL, HTMX.
-- [dotfiles](https://github.com/thesems/.config): Z Shell, i3 + i3blocks, kitty, dunst, fish, neovim.
+- [dotfiles](https://github.com/thesems/.config): i3, kitty, fish, neovim, etc.
 
 ## About me
 
