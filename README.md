@@ -35,7 +35,7 @@ I'm an all-rounder software engineer and love to learn and work various topics r
 
 - 👷 Software Developer at [Easelink](https://easelink.com).
 - 🔭 I'm digging deeper into Rust.
-- ⚡ I'm also learning more about blockchain technology and operating systems.
+- ⚡ I'm learning more about distributed computing and fault tolerant systems.
 - 📝 Started writing a technical blog in late 2023.
 
 <br>
