@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 
-You can find my curriculum vitae on my [github.com/thesems/curriculum-vitae](https://github.com/thesems/curriculum-vitae/blob/main/main.pdf).
-
 ## Repositories
 
 - [Emberchain](https://github.com/thesems/ember-chain): bitcoin-like blockchain, proof-of-work, utxo-based, script, web API, rust.
