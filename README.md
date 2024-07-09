@@ -32,7 +32,7 @@ Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 
 I'm an all-rounder software engineer and love to learn and work various topics ranging from web development to system programming.
 
-- 👷 Software Developer at [Easelink](https://easelink.com).
+- 👷 Software Developer at TBD.
 - 🔭 I'm digging deeper into Rust.
 - ⚡ I'm learning more about distributed computing and fault tolerant systems.
 - 📝 Started writing a technical blog in late 2023.
