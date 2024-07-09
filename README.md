@@ -19,6 +19,7 @@ Visit me at my website [lifeofsems.com](https://lifeofsems.com)
 
 ## Repositories
 
+- [MIT Distributed Systems](https://github.com/thesems/mit-6824-distributed-systems-golabs): map-reduce, raft consensus, fault-tolerant, sharded key-value store.
 - [Emberchain](https://github.com/thesems/ember-chain): bitcoin-like blockchain, proof-of-work, utxo-based, script, web API, rust.
 - [Nimbus Text Editor](https://github.com/thesems/nimbus-text-editor): terminal-based, vim motions, syntax highlighting, search.
 - [nand2tetris](https://github.com/thesems/nand2tetris): includes course solutions. Learn HDL, assemblers, VMs, compilers, OSs.
